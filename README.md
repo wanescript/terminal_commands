@@ -1,6 +1,6 @@
 # terminal_commands
 
-notes for terminal commands.
+Taking notes on specific terminal commands that I find very useful in my work flow.
 
 ---
 
