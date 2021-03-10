@@ -64,8 +64,18 @@ show system date.
 
 show username.
 
+---
 
->less general.md
+>less
+
+enter ___less___ , then the name of the file .
+
+ex.
+
+```
+less first.sh
+
+```
 
 to view file in terminal. Press Q to exit screen.
 

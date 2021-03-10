@@ -1,12 +1,15 @@
-When using your terminal to create folders, avoid making your project folder your master repo. Git will push every folder in your editor directory together, if you run the command  ___git add .___  Init each folder, so each folder has it's own repository. ___git init___
+When creating a directory using the terminal, make sure you initialize your project directory before you create any files. If not, all files from your desktop will be pushed into your repository. That was a learning experience that I discovered along my journey.
 
+---
+ex.
 
-**ERROR PENALTY**: Downtime : 25mins. {troubleshooting}
+cd desktop/project_folder
 
 ---
 
-cd into your project folder then run...
+Next run the following command...
+
 >git init
 
- to initialize an individual repository for you folder or files.
+This will initialize an individual repository for you project folder.
 
