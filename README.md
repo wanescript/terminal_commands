@@ -1,13 +1,13 @@
 # terminal_commands
 
-Taking notes on specific terminal commands that I find very useful in my work flow.
+Taking notes on specific terminal commands that are useful in my work flow.
 
 
 
-To download git software click the link.
+To download git software click the link below.
 
-[git: version control](https://git-scm.com/)
+- [git: version control](https://git-scm.com/)
 
 ---
 
-HM
+{HM}
