@@ -1,6 +1,6 @@
 # terminal_commands
 
-Taking notes on specific terminal commands that are useful in my work flow.
+Taking notes and learning specific linux commands.
 
 
 
