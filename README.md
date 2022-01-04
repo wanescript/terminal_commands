@@ -1,6 +1,5 @@
 # terminal_commands
-
-Taking notes and learning specific linux commands.
+Learning specific linux commands.
 
 
 
